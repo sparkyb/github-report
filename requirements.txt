@@ -1,0 +1,5 @@
+gitpython
+humanize
+python-dateutil
+requests
+tabulate

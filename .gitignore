@@ -1,0 +1,11 @@
+*.py[cod]
+__pycache__/
+*.egg-info/
+dist/
+build/
+
+# virtualenv
+env/
+
+# local file
+.token
