@@ -5,7 +5,8 @@ dist/
 build/
 
 # virtualenv
-env/
+/env/
+/venv/
 
 # local file
 .token

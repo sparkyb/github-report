@@ -1,6 +1,6 @@
 #!/bin/bash
 
-virtualenv="env"
+virtualenv="venv"
 
 case "$OSTYPE" in
   msys* | cywin* | win*)

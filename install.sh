@@ -1,6 +1,6 @@
 #!/bin/bash
 
-virtualenv="env"
+virtualenv="venv"
 requirements="requirements.txt"
 
 echo "Creating virtualenv..."
